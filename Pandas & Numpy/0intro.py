@@ -101,3 +101,7 @@ while x != 5:
         print("Exiting........")
     else:
         print("Not Found!")
+
+
+df = pd.read_json(r"countries of the world.json")
+df

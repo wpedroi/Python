@@ -1,0 +1,910 @@
+[
+    {
+        "Country":"Afghanistan ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Albania ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Algeria ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"American Samoa ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Andorra ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Angola ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Anguilla ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Antigua & Barbuda ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Argentina ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Armenia ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Aruba ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Australia ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Austria ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Azerbaijan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Bahamas, The ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Bahrain ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Bangladesh ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Barbados ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Belarus ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Belgium ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Belize ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Benin ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Bermuda ",
+        "Region":"NORTHERN AMERICA                   "
+    },
+    {
+        "Country":"Bhutan ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Bolivia ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Bosnia & Herzegovina ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Botswana ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Brazil ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"British Virgin Is. ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Brunei ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Bulgaria ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Burkina Faso ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Burma ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Burundi ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Cambodia ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Cameroon ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Canada ",
+        "Region":"NORTHERN AMERICA                   "
+    },
+    {
+        "Country":"Cape Verde ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Cayman Islands ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Central African Rep. ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Chad ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Chile ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"China ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Colombia ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Comoros ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Congo, Dem. Rep. ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Congo, Repub. of the ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Cook Islands ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Costa Rica ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Cote d'Ivoire ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Croatia ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Cuba ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Cyprus ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Czech Republic ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Denmark ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Djibouti ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Dominica ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Dominican Republic ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"East Timor ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Ecuador ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Egypt ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"El Salvador ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Equatorial Guinea ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Eritrea ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Estonia ",
+        "Region":"BALTICS                            "
+    },
+    {
+        "Country":"Ethiopia ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Faroe Islands ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Fiji ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Finland ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"France ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"French Guiana ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"French Polynesia ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Gabon ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Gambia, The ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Gaza Strip ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Georgia ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Germany ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Ghana ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Gibraltar ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Greece ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Greenland ",
+        "Region":"NORTHERN AMERICA                   "
+    },
+    {
+        "Country":"Grenada ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Guadeloupe ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Guam ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Guatemala ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Guernsey ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Guinea ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Guinea-Bissau ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Guyana ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Haiti ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Honduras ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Hong Kong ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Hungary ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Iceland ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"India ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Indonesia ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Iran ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Iraq ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Ireland ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Isle of Man ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Israel ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Italy ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Jamaica ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Japan ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Jersey ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Jordan ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Kazakhstan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Kenya ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Kiribati ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Korea, North ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Korea, South ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Kuwait ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Kyrgyzstan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Laos ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Latvia ",
+        "Region":"BALTICS                            "
+    },
+    {
+        "Country":"Lebanon ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Lesotho ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Liberia ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Libya ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"Liechtenstein ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Lithuania ",
+        "Region":"BALTICS                            "
+    },
+    {
+        "Country":"Luxembourg ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Macau ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Macedonia ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Madagascar ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Malawi ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Malaysia ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Maldives ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Mali ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Malta ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Marshall Islands ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Martinique ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Mauritania ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Mauritius ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Mayotte ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Mexico ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Micronesia, Fed. St. ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Moldova ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Monaco ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Mongolia ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Montserrat ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Morocco ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"Mozambique ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Namibia ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Nauru ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Nepal ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Netherlands ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Netherlands Antilles ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"New Caledonia ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"New Zealand ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Nicaragua ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Niger ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Nigeria ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"N. Mariana Islands ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Norway ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Oman ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Pakistan ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Palau ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Panama ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Papua New Guinea ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Paraguay ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Peru ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Philippines ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Poland ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Portugal ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Puerto Rico ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Qatar ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Reunion ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Romania ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Russia ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Rwanda ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Saint Helena ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Saint Kitts & Nevis ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Saint Lucia ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"St Pierre & Miquelon ",
+        "Region":"NORTHERN AMERICA                   "
+    },
+    {
+        "Country":"Saint Vincent and the Grenadines ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Samoa ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"San Marino ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Sao Tome & Principe ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Saudi Arabia ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Senegal ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Serbia ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Seychelles ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Sierra Leone ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Singapore ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Slovakia ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Slovenia ",
+        "Region":"EASTERN EUROPE                     "
+    },
+    {
+        "Country":"Solomon Islands ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Somalia ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"South Africa ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Spain ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Sri Lanka ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Sudan ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Suriname ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Swaziland ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Sweden ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Switzerland ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"Syria ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Taiwan ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Tajikistan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Tanzania ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Thailand ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Togo ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Tonga ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Trinidad & Tobago ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Tunisia ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"Turkey ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Turkmenistan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Turks & Caicos Is ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Tuvalu ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Uganda ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Ukraine ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"United Arab Emirates ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"United Kingdom ",
+        "Region":"WESTERN EUROPE                     "
+    },
+    {
+        "Country":"United States ",
+        "Region":"NORTHERN AMERICA                   "
+    },
+    {
+        "Country":"Uruguay ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Uzbekistan ",
+        "Region":"C.W. OF IND. STATES "
+    },
+    {
+        "Country":"Vanuatu ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"Venezuela ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Vietnam ",
+        "Region":"ASIA (EX. NEAR EAST)         "
+    },
+    {
+        "Country":"Virgin Islands ",
+        "Region":"LATIN AMER. & CARIB    "
+    },
+    {
+        "Country":"Wallis and Futuna ",
+        "Region":"OCEANIA                            "
+    },
+    {
+        "Country":"West Bank ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Western Sahara ",
+        "Region":"NORTHERN AFRICA                    "
+    },
+    {
+        "Country":"Yemen ",
+        "Region":"NEAR EAST                          "
+    },
+    {
+        "Country":"Zambia ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    },
+    {
+        "Country":"Zimbabwe ",
+        "Region":"SUB-SAHARAN AFRICA                 "
+    }
+]
